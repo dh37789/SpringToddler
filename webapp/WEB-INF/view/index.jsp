@@ -17,7 +17,7 @@
         new Vue({
             el : '.app',
             data : {
-                message : '안녕 난 전역자 오명학이다!!!!!'
+                message : '안녕 난 전역자 오명학이다!!!!!!!!!!!'
             }
         })
 </script>
