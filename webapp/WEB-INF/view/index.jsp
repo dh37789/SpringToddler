@@ -9,6 +9,7 @@
 <body>
 	<input type="button" class="btn-info" value="hello"> 안녕하시오
 	오명학페이지에오 ${test }
+	Commit test입니다.
 	<div class="app">{{ message }}</div>
 	
 </body>
